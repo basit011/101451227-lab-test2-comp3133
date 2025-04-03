@@ -1,6 +1,6 @@
 # SpaceX Missions Explorer
 
-![alt text](<Screenshot 2025-04-02 at 8.43.25 PM.png>)
+![alt text](<falconSat.png>)
 
 ## Overview
 
