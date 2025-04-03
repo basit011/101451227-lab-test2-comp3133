@@ -1,6 +1,6 @@
 # SpaceX Missions Explorer
 
-![SpaceX Missions Explorer Screenshot]
+![alt text](<Screenshot 2025-04-02 at 8.43.25 PM.png>)
 
 ## Overview
 
